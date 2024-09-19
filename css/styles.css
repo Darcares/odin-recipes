@@ -1,3 +1,7 @@
+* {
+    font-family: 'Courier New', 'Times New Roman', monospace;
+} 
+
 body {
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
