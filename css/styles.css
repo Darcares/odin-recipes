@@ -16,3 +16,8 @@ a:link {
  {
     text-align: center;
 }
+
+.recipes-list {
+    list-style: none;
+    padding: 0;
+}
