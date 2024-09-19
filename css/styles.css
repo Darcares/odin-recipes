@@ -21,3 +21,11 @@ a:link {
     list-style: none;
     padding: 0;
 }
+
+.odin-cooking {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 400px;
+} 
