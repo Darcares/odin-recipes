@@ -7,6 +7,10 @@ body {
     color: rgb(255, 255, 255);
 }
 
+.body-recipe {
+    width: 1100px;
+}
+
 a:visited {
     color: rgb(255, 0, 0);
 }
